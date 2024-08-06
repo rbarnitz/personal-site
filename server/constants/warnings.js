@@ -7,6 +7,10 @@ You need to set SERVER_SESSION_SECRET to a better secret
 Please follow the README and add a .env file
 
 It should be
+
+
+
+
 - longer than 8 characters
 - not "superDuperSecret"
 
